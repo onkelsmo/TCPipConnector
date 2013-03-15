@@ -1,0 +1,20 @@
+E:\myDoc\Visual Studio 2010\BerufsSchule\testTCPip\testTCPip\bin\Release\testTCPip.exe
+E:\myDoc\Visual Studio 2010\BerufsSchule\testTCPip\testTCPip\bin\Release\testTCPip.pdb
+E:\myDoc\Visual Studio 2010\BerufsSchule\testTCPip\testTCPip\bin\Release\tcpIP.dll
+E:\myDoc\Visual Studio 2010\BerufsSchule\testTCPip\testTCPip\obj\x86\Release\ResolveAssemblyReference.cache
+E:\myDoc\Visual Studio 2010\BerufsSchule\testTCPip\testTCPip\obj\x86\Release\testTCPip.Form1.resources
+E:\myDoc\Visual Studio 2010\BerufsSchule\testTCPip\testTCPip\obj\x86\Release\testTCPip.Properties.Resources.resources
+E:\myDoc\Visual Studio 2010\BerufsSchule\testTCPip\testTCPip\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+E:\myDoc\Visual Studio 2010\BerufsSchule\testTCPip\testTCPip\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+E:\myDoc\Visual Studio 2010\BerufsSchule\testTCPip\testTCPip\obj\x86\Release\testTCPip.exe
+E:\myDoc\Visual Studio 2010\BerufsSchule\testTCPip\testTCPip\obj\x86\Release\testTCPip.pdb
+F:\AWE\testTCPip\testTCPip\obj\x86\Release\testTCPip.exe
+F:\AWE\testTCPip\testTCPip\obj\x86\Release\testTCPip.pdb
+F:\AWE\testTCPip\testTCPip\bin\Release\testTCPip.exe
+F:\AWE\testTCPip\testTCPip\bin\Release\testTCPip.pdb
+F:\AWE\testTCPip\testTCPip\bin\Release\tcpIP.dll
+F:\AWE\testTCPip\testTCPip\obj\x86\Release\ResolveAssemblyReference.cache
+F:\AWE\testTCPip\testTCPip\obj\x86\Release\testTCPip.Form1.resources
+F:\AWE\testTCPip\testTCPip\obj\x86\Release\testTCPip.Properties.Resources.resources
+F:\AWE\testTCPip\testTCPip\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+F:\AWE\testTCPip\testTCPip\obj\x86\Release\GenerateResource-ResGen.write.1.tlog

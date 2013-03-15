@@ -1,0 +1,10 @@
+E:\myDoc\Visual Studio 2010\BerufsSchule\testTCPip\testTCPip\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\myDoc\Visual Studio 2010\BerufsSchule\testTCPip\testTCPip\obj\x86\Debug\testTCPip.Form1.resources
+E:\myDoc\Visual Studio 2010\BerufsSchule\testTCPip\testTCPip\obj\x86\Debug\testTCPip.Properties.Resources.resources
+E:\myDoc\Visual Studio 2010\BerufsSchule\testTCPip\testTCPip\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\myDoc\Visual Studio 2010\BerufsSchule\testTCPip\testTCPip\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\myDoc\Visual Studio 2010\BerufsSchule\testTCPip\testTCPip\bin\Debug\testTCPip.exe
+E:\myDoc\Visual Studio 2010\BerufsSchule\testTCPip\testTCPip\bin\Debug\testTCPip.pdb
+E:\myDoc\Visual Studio 2010\BerufsSchule\testTCPip\testTCPip\bin\Debug\tcpIP.dll
+E:\myDoc\Visual Studio 2010\BerufsSchule\testTCPip\testTCPip\obj\x86\Debug\testTCPip.exe
+E:\myDoc\Visual Studio 2010\BerufsSchule\testTCPip\testTCPip\obj\x86\Debug\testTCPip.pdb
